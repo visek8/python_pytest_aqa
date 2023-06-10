@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<html>
+  <head>
+    <script src="/js/vendor/298279967.js"></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>The Internet</title>
+    <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/font-awesome.css" rel="stylesheet">
+    <script src="/js/vendor/jquery-1.11.3.min.js"></script>
+    <script src="/js/vendor/jquery-ui-1.11.4/jquery-ui.js"></script>
+    <script src="/js/foundation/foundation.js"></script>
+    <script src="/js/foundation/foundation.alerts.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </head>
+  <body>
+    <div class="row">
+      <div id="flash-messages" class="large-12 columns">
+      
+        
+      
+        
+      
+        
+      
+      </div>
+    </div>
+    <div class="row">
+      <a href="https://github.com/tourdedave/the-internet"><img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
+      <div id="content" class="large-12 columns">
+        <div class="example">
+  <h3>File Downloader</h3>
+  
+    <a href="download/my test1.pdf">my test1.pdf</a>
+    </br>
+  
+    <a href="download/download.png">download.png</a>
+    </br>
+  
+    <a href="download/boat.jpg">boat.jpg</a>
+    </br>
+  
+    <a href="download/test.pdf">test.pdf</a>
+    </br>
+  
+    <a href="download/Nanda Bhujade.pdf">Nanda Bhujade.pdf</a>
+    </br>
+  
+    <a href="download/Database.xlsx">Database.xlsx</a>
+    </br>
+  
+    <a href="download/sample-upload-file.png">sample-upload-file.png</a>
+    </br>
+  
+    <a href="download/playwrightAndroid.png">playwrightAndroid.png</a>
+    </br>
+  
+    <a href="download/828-2000x3000.jpg">828-2000x3000.jpg</a>
+    </br>
+  
+    <a href="download/Resume-AVINASH-HEDIGGOND (1).pdf">Resume-AVINASH-HEDIGGOND (1).pdf</a>
+    </br>
+  
+    <a href="download/新建文本文档 (2).txt">新建文本文档 (2).txt</a>
+    </br>
+  
+    <a href="download/Новый текстовый документ (4).txt">Новый текстовый документ (4).txt</a>
+    </br>
+  
+    <a href="download/sample_media_file.png">sample_media_file.png</a>
+    </br>
+  
+    <a href="download/empty.txt">empty.txt</a>
+    </br>
+  
+    <a href="download/demo.txt">demo.txt</a>
+    </br>
+  
+    <a href="download/F0CBFB62-46BD-45E1-9EEA-726C4EA77966.png">F0CBFB62-46BD-45E1-9EEA-726C4EA77966.png</a>
+    </br>
+  
+    <a href="download/Rajkumar M.pdf">Rajkumar M.pdf</a>
+    </br>
+  
+    <a href="download/1a48e97c-ff8d-488a-ab89-253f90651d0c_450k.mp4">1a48e97c-ff8d-488a-ab89-253f90651d0c_450k.mp4</a>
+    </br>
+  
+    <a href="download/4.jpg">4.jpg</a>
+    </br>
+  
+    <a href="download/targetaccord.jpg">targetaccord.jpg</a>
+    </br>
+  
+    <a href="download/02403AA1-8F28-4BFF-B60F-79A044C2E611.png">02403AA1-8F28-4BFF-B60F-79A044C2E611.png</a>
+    </br>
+  
+    <a href="download/test.db">test.db</a>
+    </br>
+  
+    <a href="download/dog.png">dog.png</a>
+    </br>
+  
+    <a href="download/foto.png">foto.png</a>
+    </br>
+  
+    <a href="download/sample.png">sample.png</a>
+    </br>
+  
+    <a href="download/Image.jpg">Image.jpg</a>
+    </br>
+  
+    <a href="download/testUpload.json">testUpload.json</a>
+    </br>
+  
+    <a href="download/test1.docx">test1.docx</a>
+    </br>
+  
+    <a href="download/example.json">example.json</a>
+    </br>
+  
+    <a href="download/picture.jpg">picture.jpg</a>
+    </br>
+  
+    <a href="download/demo automation.txt">demo automation.txt</a>
+    </br>
+  
+    <a href="download/ssoreport.txt">ssoreport.txt</a>
+    </br>
+  
+    <a href="download/foto2.png">foto2.png</a>
+    </br>
+  
+    <a href="download/5mb script.xml">5mb script.xml</a>
+    </br>
+  
+    <a href="download/image.jpg">image.jpg</a>
+    </br>
+  
+    <a href="download/canvas.png">canvas.png</a>
+    </br>
+  
+    <a href="download/some-file.txt">some-file.txt</a>
+    </br>
+  
+    <a href="download/Ekran görüntüsü.png">Ekran görüntüsü.png</a>
+    </br>
+  
+    <a href="download/banerjee.jpg">banerjee.jpg</a>
+    </br>
+  
+    <a href="download/LambdaTest.txt">LambdaTest.txt</a>
+    </br>
+  
+    <a href="download/test2.pdf">test2.pdf</a>
+    </br>
+  
+    <a href="download/STC_DT_WBU_0055_Test Cases_v1.1.xlsx">STC_DT_WBU_0055_Test Cases_v1.1.xlsx</a>
+    </br>
+  
+    <a href="download/Customer-Order-Form - IAS150323MTIL5DW.pdf">Customer-Order-Form - IAS150323MTIL5DW.pdf</a>
+    </br>
+  
+    <a href="download/darkbg.jpg">darkbg.jpg</a>
+    </br>
+  
+    <a href="download/sample.txt">sample.txt</a>
+    </br>
+  
+    <a href="download/product.xlsx">product.xlsx</a>
+    </br>
+  
+    <a href="download/table.html">table.html</a>
+    </br>
+  
+    <a href="download/Capture3.PNG">Capture3.PNG</a>
+    </br>
+  
+    <a href="download/IMG_20230608_160046.jpg">IMG_20230608_160046.jpg</a>
+    </br>
+  
+    <a href="download/webdriverIO.png">webdriverIO.png</a>
+    </br>
+  
+</div>
+
+      </div>
+    </div>
+    <div id='page-footer' class="row">
+      <div class="large-4 large-centered columns">
+        <hr>
+        <div style="text-align: center;">Powered by <a target="_blank" href="http://elementalselenium.com/">Elemental Selenium</a></div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -3,6 +3,7 @@ import pytest
 # from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 
+
 # from webdriver_manager.core.utils import ChromeType
 
 
@@ -15,3 +16,8 @@ def browser_chrome():
 
     driver.close()
     driver.quit()
+
+
+@pytest.fixture
+def open_page(browser_chrome):
+    browser_chrome.get("https://5element.by/")

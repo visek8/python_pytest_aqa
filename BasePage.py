@@ -87,3 +87,6 @@ class BasePage:
     def assert_disable_attribute(self, xpath):
         """Check that element is blocked for editing"""
         assert self.assert_that_attribute_present(xpath, 'disabled'), f"Element '{xpath}' doesn't have attr disabled"
+
+    def click(self, locator):
+        return self.get_locator_by_xpath(locator).click()

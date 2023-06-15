@@ -1,0 +1,5 @@
+[
+  "test_element_page.py::test_click",
+  "test_element_page.py::test_click_kitchen",
+  "test_element_page.py::test_logo"
+]

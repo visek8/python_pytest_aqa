@@ -1,0 +1,4 @@
+pytest
+selenium==4.10.0
+flask_restful
+flask

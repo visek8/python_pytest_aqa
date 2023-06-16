@@ -24,3 +24,5 @@ print(cursor.fetchall())
 query = "SELECT customer_id FROM orders WHERE ord_no BETWEEN 70001 AND 70007"
 cursor.execute(query)
 print(cursor.fetchall())
+
+db.close()
